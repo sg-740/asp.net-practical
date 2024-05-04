@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>add/Screenshot.png</ImageUrl>
+		<NavigateUrl>www.google.com</NavigateUrl>
+		<AlternateText>LOGO </AlternateText>
+		<Keyword>LOGO </Keyword>
+		<Impression>10</Impression>
+		<Width>125</Width>
+		<Height>125</Height>
+	</Ad>
+	<Ad>
+		<ImageUrl>add/Screenshot1.png</ImageUrl>
+		<NavigateUrl>Me</NavigateUrl>
+		<AlternateText> Related To Me</AlternateText>
+		<Keyword>Me</Keyword>
+		<Impression>9</Impression>
+		<Width>125</Width>
+		<Height>125</Height>
+	</Ad>
+	<Ad>
+		<ImageUrl>add/Screenshot2.png</ImageUrl>
+		<NavigateUrl>Office</NavigateUrl>
+		<AlternateText> Related To Office</AlternateText>
+		<Keyword>Office</Keyword>
+		<Impression>8</Impression>
+		<Width>125</Width>
+		<Height>125</Height>
+	</Ad>
+</Advertisements>

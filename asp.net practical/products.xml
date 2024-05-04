@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<products>
+	<product>
+		<id>101</id>
+		<Name>Sahil Gupta</Name>
+	</product>
+	<product>
+		<id>102</id>
+		<Name>Manish Gupta</Name>
+	</product>
+	<product>
+		<id>103</id>
+		<Name>Vivek Gupta</Name>		
+	</product>
+	<product>
+		<id>104</id>
+		<Name>Vishal Gupta</Name>
+	</product>
+	<product>
+		<id>105</id>
+		<Name>Tanmay Gupta</Name>
+	</product>
+	<product>
+		<id>106</id>
+		<Name>Pawan Gupta</Name>
+	</product>
+	<product>
+		<id>107</id>
+		<Name>Sholay Gupta</Name>
+	</product>
+	<product>
+		<id>108</id>
+		<Name>Ashutosh Gupta</Name>
+	</product>
+	<product>
+		<id>109</id>
+		<Name>Gaurav Gupta</Name>
+	</product>
+	<product>
+		<id>110</id>
+		<Name>RDX Gupta</Name>
+	</product>
+</products>
